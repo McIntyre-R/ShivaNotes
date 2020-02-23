@@ -41,7 +41,8 @@
     > All players with three stacks of the light debuff take this final meteor and the mechanic is over. 
     > * Party Tether Players either start with a One stack or No stack Light debuff. Players with no debuff will end the mechanic with 3 stacks and take the last meteor
     > * Similarly Orb Tether players will either start with a Two stack or One stack Light debuff. Players from this group with One stack will end the mechanic with 3 stacks nad take the last meteor. 
-* Mirror, Mirror
+    <details>
+     <summary> Mirror, Mirror </summary>
     > Four Green Mirrors<br>
     > Axe or Scythe Kick    
     > * If Axe kick get out then stack under the boss. 
@@ -51,7 +52,7 @@
     > * This stack is either real or fake. 
     > * If there is a circle around the stack it is fake and will turn into a spread marker on all players. 
     > * If there isnt just stack. 
-
+    </details>
 * Shattered World
     > Two big circles will be formed in the arena. Split into light parties and mitigate towards the end of the cast. These will be your parties for add phase. <br>
     > At cast end you enter add phase. 
@@ -61,7 +62,22 @@
 
 <details>
   <summary> Expand </summary>
+
+Aqueous: slow moving add that can be stunned but has a lot of hp
+Eathen: medium speed add that casts stone skin on itself but can be silenced with low hp
+Lightning: fast add with low hp that reflects damage dealt to it
+Light orb: tethers crystal, and can be intercepted but give debuff. 
   
+The party is divided into two groups here, and have different sets of add's
+
+Left Party
+    Wave One: Aqueous Aether, Two Lightning Aether, and a Light Orb
+    Wave Two: Earthen Aether, and a Light Orb
+    Wave Three: Aqueous Aether, Earthen Aether, a Light Orb
+    Wave Four: Two Lightning Aether, and a Light Orb
+
+Right Party
+
   
   
 </details>
