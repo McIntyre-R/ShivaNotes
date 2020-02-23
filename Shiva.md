@@ -43,15 +43,15 @@
     > * Similarly Orb Tether players will either start with a Two stack or One stack Light debuff. Players from this group with One stack will end the mechanic with 3 stacks nad take the last meteor. 
     <details>
      <summary> Mirror, Mirror </summary>
-    > Four Green Mirrors<br>
-    > Axe or Scythe Kick    
-    > * If Axe kick get out then stack under the boss. 
-    > * If Scythe get in then stand next to your mirror with partner. 
-    > * Split into Pairs for this mechanic DPS & Healer/Tank. <br>
-    > When resolving the Mirror hit all dps will get a stack marker. 
-    > * This stack is either real or fake. 
-    > * If there is a circle around the stack it is fake and will turn into a spread marker on all players. 
-    > * If there isnt just stack. 
+       > Four Green Mirrors<br>
+       > Axe or Scythe Kick    
+       > * If Axe kick get out then stack under the boss. 
+       > * If Scythe get in then stand next to your mirror with partner. 
+       > * Split into Pairs for this mechanic DPS & Healer/Tank. <br>
+       > When resolving the Mirror hit all dps will get a stack marker. 
+       > * This stack is either real or fake. 
+       > * If there is a circle around the stack it is fake and will turn into a spread marker on all players. 
+       > * If there isnt just stack. 
     </details>
 * Shattered World
     > Two big circles will be formed in the arena. Split into light parties and mitigate towards the end of the cast. These will be your parties for add phase. <br>
