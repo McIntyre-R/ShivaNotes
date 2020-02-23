@@ -10,8 +10,9 @@
  * Absolute Zero
     > AoE damage
  * Mirror, Mirror 
-    >Two Green Mirrors, and  One Red Mirror
-    >Driving or Biting frost : Driving is cone behind, Biting is a Cleave to everything but behind
+    >Two Green Mirrors, and  One Red Mirror  
+    
+    >Driving or Biting frost : Driving is cone behind, Biting is a Cleave to everything but behind <br>
     >Safe space is between (for Driving Frost) or away (for Biting Frost) from the green mirrors, then move towards (for Driving Frost) or away (for Biting Frost) from the red mirror 
 * Diamond Frost
     >Four baited personal puddles on light party, put these on inner waymarks, the puddles give slow when resolved that lasts until mid cast of the next Biting or Driving Frost
