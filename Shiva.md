@@ -66,7 +66,7 @@
     >A slow moving add that can be stunned but has a lot of hp.
 * Eathen Aether: 
     >A medium speed add that casts stone skin on itself but can be silenced with low hp.
-* Lightning Aether: 
+* Electric Aether: 
     >A fast add with low hp that reflects damage dealt to it.
 * Light orb: 
     >An unftargetable add that tethers the crystal. Said tether can be intercepted but gives the player a debuff making them unable to take the tether again. 
@@ -74,8 +74,8 @@
 #### The party is divided into two groups here, and have different sets of add's
 
 * Left Party
-    >Wave One: Aqueous Aether, Two Lightning Aether, and a Light Orb
-    >* Stun the Aqueous, Tank can burst the two Lightning Aether, and Healer takes the orb.    
+    >Wave One: Aqueous Aether, Two Electric Aether, and a Light Orb
+    >* Stun the Aqueous, Tank can burst the two Electric Aether, and Healer takes the orb.    
 
     >Wave Two: Earthen Aether, and a Light Orb
     >* Burst this add, do not bother silencing, and Ranged takes the orb.  
@@ -83,18 +83,24 @@
     >Wave Three: Aqueous Aether, Earthen Aether, a Light Orb
     >* Silence and burst Earthen Aether, after silence Tank takes Light orb, and everyone bursts the Aqueous.  
 
-    >Wave Four: Two Lightning Aether, and a Light Orb
-    >* Melee takes the light orb, and everyone bursts the two lightning aethers. 
+    >Wave Four: Two Electric Aether, and a Light Orb
+    >* Melee takes the light orb, and everyone bursts the two Electric aethers. 
 
 
-* Right Party
-    >Wave One:
+* Right Party (unsure)
+    >Wave One: Aqueous Aether, Earthen Aether, and a Light Orb
+    >* Burst Earthen, and CC Aqueous, and someone takes the light Orb.  
 
-    >Wave Two:
+    >Wave Two: Two Electric Aether, and a light Orb
+    >* Burst Electric Aethers, and someone takes the light Orb  
     
-    >Wave Three:
+    >Wave Three: Aqueous Aether, Two Electric Aether and a light Orb
+    >* DPS focus Aqueous Aether, Tank Healer kills Electrics, and someone takes the light Orb.
 
-    >Wave Four:
+    >Wave Four: Earthen Aether, and a light orb
+    >* Silence and Burst Earthen Aether, and someone takes the light Orb. 
+
+#### Big Ass Cutscene
 
   
   
