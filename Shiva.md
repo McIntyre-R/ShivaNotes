@@ -170,7 +170,7 @@
     > * Face the red mirror first, and then you can look at where the no color mirror was once it goes off until the mechanic resolves
 
     > Holy
-    > * Summons an orb of light that will explode for proximity damage. Shiva can split this into cardinal's and intercardinals at the edge of the arena, stack center after the red mirror resolvesif they do, otherwise stay at the edge. 
+    > * Summons an orb of light that will explode for proximity damage. Shiva can split this into cardinal's and intercardinals at the edge of the arena, stack center while making sure the avoid looking at the red mirror if they do, otherwise stay at the edge and avoid the red mirror. 
     
     > Spiteful Dance/Embittered Dance
     > * Similar to Twin Silence/Twin Stillness this is the same thing but with Axe Kick/Scythe Kick
@@ -205,14 +205,16 @@
     > Similar to the Light Rampant there will be players with only two stacks at the end of this bit and they will step into the center for the final meteor puddle. <br>
 
 * House of Light
-    > After the last puddle resolves players will spread into a protean position for this cone AoE on each player.
+    > After the last puddle resolves players will spread into a protean position for this cone AoE on each player. <br>
+    > After move to the north edge of the arena in front of where the mirror will spawn
+
 
 * Mirror, Mirror
     > One Red Mirror
 
 * Redress into Shiva
     > Floor turns to ice, copied into mirror <br>
-    > Move to edge of the arena in front of the mirror
+    
 
 * Redress into Hraesvelgr
     > Slide forward towards the center of the arena to avoid the Akh Rhai
@@ -220,17 +222,13 @@
 * Wyrms Lament
     > This functions mostly the same as the first, but instead of Hallowed Wings this will be accompanied by Akh Morn into Morn Afah.  <br>
     > This time Reds will move after Akh Morn, and Blues will move after Morn Afah. <br>
+    > The Tanks will always get Red, and the Healers always blue
+    > The Timers will also be paired in sets of two. 
+    > Tanks always are first Red, and Healers First Blue
     > Repeat this until all debuffs are resolved. 
 
 * Mirror, Mirror (enrage)
     > Double Hallowed Wings, with 8 mirrors. 
 
-
-    
-    
-
-
-
-  
-  
+ 
 </details>
